@@ -11,6 +11,7 @@ nav {
 	background-color: #61a5c2;
 	text-transform: uppercase;
 	font-family:'Odibee Sans', cursive;
+	position: sticky;
 }
 
 #home h1 {
